@@ -1,0 +1,1 @@
+ memcpy(prev_block, iv, 16);
